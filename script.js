@@ -30,10 +30,10 @@ document.querySelectorAll("a").forEach(link => {
 });
 
 const imagens = [
-    "/assets/Homeimg.webp",
-    "/assets/grupo.luta.png",
-    "/assets/casasantagemma.jpg",
-    "/assets/Cachorro.webp"
+    "Homeimg.webp",
+    "grupo.luta.png",
+    "casasantagemma.jpg",
+    "Cachorro.webp"
 ];
 
 let index = 0;
